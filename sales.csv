@@ -1,0 +1,13 @@
+date,product,region,customer,quantity,unit_price
+2024-01-05,Mouse,Southeast,Ana,2,50
+2024-01-10,Keyboard,South,Bruno,1,120
+2024-01-12,Monitor,Southeast,Carlos,1,900
+2024-02-01,Mouse,Northeast,Daniela,3,50
+2024-02-03,Keyboard,Southeast,Eduardo,2,120
+2024-02-10,Mouse,South,Fernanda,1,50
+2024-02-15,Monitor,Northeast,Gabriel,2,900
+2024-03-01,Keyboard,Southeast,Helena,1,120
+2024-03-05,Mouse,Southeast,Igor,4,50
+2024-03-08,Monitor,South,Juliana,1,900
+2024-03-15,Mouse,Northeast,Kleber,2,50
+2024-03-20,Keyboard,Southeast,Larissa,3,120
